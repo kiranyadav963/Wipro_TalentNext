@@ -1,4 +1,4 @@
-import java.util.25;
+import java.util.Scanner;
 public class sumDigits {
     public static int digitSum(int num){
         int sum = 0;
